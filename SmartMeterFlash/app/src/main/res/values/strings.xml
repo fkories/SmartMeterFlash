@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartMeterFlash</string>
+    <string name="enter_pin">PIN</string>
+</resources>
